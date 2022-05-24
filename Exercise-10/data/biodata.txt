@@ -1,0 +1,6 @@
+Nama: Upin
+Umur: 32
+Alamat: Kampung Durian Runtuh
+Nama: Naruto
+Umur: 9
+Alamat: Konoha
